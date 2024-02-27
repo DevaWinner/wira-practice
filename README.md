@@ -1,2 +1,5 @@
-# wira-practice
-This is a practice repo
+This is a Practice session
+
+Roll Call
+
+1. Aniekan Winner Anietie
